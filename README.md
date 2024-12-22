@@ -1,4 +1,4 @@
-# Stopwatch Application
+# Stopwatch Application⌚
 
 A simple and functional Stopwatch Application built with React to measure time efficiently.
 
